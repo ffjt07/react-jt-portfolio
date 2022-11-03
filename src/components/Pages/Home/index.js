@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 
+function Home () => {
+
   return (
     <div>
       <div className="flex-row justify-space-between mb-3">
